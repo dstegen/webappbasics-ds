@@ -12,5 +12,12 @@
     "nodejs"
   ],
   "author": "Daniel Stegen",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "formidable": "^1.2.6",
+    "mimetype": "^0.0.8",
+    "uuid": "^9.0.0",
+    "ws": "^8.12.0"
+  }
 }
