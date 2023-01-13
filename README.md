@@ -1,5 +1,5 @@
 # webappbasics-ds #
-basic utils for making nodejs web apps programming more easy
+Basic utils for making nodejs web apps programming more easy
 
 ## Installation ##
 
