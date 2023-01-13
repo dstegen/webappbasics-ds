@@ -101,7 +101,8 @@ authenticate.jwtVerify(token, key, optionsVerify); //returns true, if the token 
 ## Changelog ##
 
 #### v0.0.1
-- updated ws dependencies
+- cloned webapputils-ds and removed api
+- updated dependencies
 
 
 
