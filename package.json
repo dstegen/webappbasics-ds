@@ -1,0 +1,16 @@
+{
+  "name": "webappbasics-ds",
+  "version": "0.0.1",
+  "description": "basic utils for making nodejs web apps programming more easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "keywords": [
+    "webapp",
+    "utils",
+    "nodejs"
+  ],
+  "author": "Daniel Stegen",
+  "license": "MIT"
+}
