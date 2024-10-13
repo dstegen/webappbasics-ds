@@ -1,12 +1,6 @@
 # webappbasics-ds #
 Basic utils for making nodejs web apps programming more easy
 
-## Installation ##
-
-```
-npm i webappbasics-ds
-```
-
 ## Howto use the example ##
 
 Start example with
@@ -98,9 +92,17 @@ authenticate.jwtVerify(token, key, optionsVerify); //returns true, if the token 
   - ***startServer()*** will finally start the web server
 
 
+#### About 'formidable version 1' beeing deprecated ####
+As the new version 3 of the formidable module have breaking changes and it needs more depending npm modules, I stay for the moment with version 1.
+
+
 ## Changelog ##
 
-#### v0.0.1
+#### v0.5.2
+- updated copyright
+- updated dependencies
+
+#### v0.5.1
 - cloned webapputils-ds and removed api
 - updated dependencies
 
@@ -110,7 +112,7 @@ authenticate.jwtVerify(token, key, optionsVerify); //returns true, if the token 
 
 The MIT License (MIT)
 
-Copyright (c) 2023 Daniel Stegen
+Copyright (c) 2024 Daniel Stegen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
